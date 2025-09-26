@@ -31,6 +31,6 @@ We use MATLAB + CUDA programming for the acceleration of 2D Gauassian's renderin
 </div><br>
 
 ## Acknowledgments
-Our code was developed based on gsplat ([[Codes]](https://github.com/nerfstudio-project/gsplat) [[Paper]](https://arxiv.org/abs/2409.06765) [[Project page]](https://docs.gsplat.studio/main/)) and GaussianImage ([[Codes]](https://github.com/Xinjie-Q/GaussianImage) [[Paper]](https://doi.org/10.1007/978-3-031-72673-6_18)).
+Our code was developed based on gsplat ([[Codes]](https://github.com/nerfstudio-project/gsplat) [[Paper]](https://arxiv.org/abs/2409.06765) [[Project page]](https://docs.gsplat.studio/main/)).
 
 
